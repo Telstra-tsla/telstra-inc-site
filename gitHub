@@ -1,0 +1,7 @@
+add .
+git commit -m "Initial Telstra Inc Website"
+git push origin main
+
+2. Deploy free with Vercel (works seamlessly with Next.js):
+
+Go to vercel.com → import your GitHub repo.
