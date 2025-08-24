@@ -1,0 +1,22 @@
+:root {
+  --color-bg: #0A0C10;
+  --color-panel: #0F1117;
+  --color-accent-blue: #00D1FF;
+  --color-accent-purple: #A855F7;
+  --color-success: #13CE66;
+  --color-warning: #FFB020;
+  --color-error: #FF6B6B;
+  --color-text-dark: #0B0C10;
+  --color-text-light: #E8EAF0;
+  --color-muted: #A3ADC2;
+
+  --font-heading: 'Inter', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text-light);
+  font-family: var(--font-body);
+  margin: 0;
+}
